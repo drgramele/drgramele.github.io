@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Theory of Languages and Compilers"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "ITBA University, Department of Computer Engineering"
+date: 2019-01-01
+location: "Buenos Aires, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+From Chomsky to LALR(1) parser.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* [LL(1) Parser in Spanish](https://www.youtube.com/watch?v=0XWcRXnOzLM)
